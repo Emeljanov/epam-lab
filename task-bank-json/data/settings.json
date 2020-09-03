@@ -1,0 +1,13 @@
+{
+  "dateFrom" : "1900-01-01",
+  "dateTo" : "2016-01-01",
+  "showFor" : {
+    "type" : "ID",
+    "users" : [0,1,2,3,4]
+  },
+  "sortBy" : "AGE",
+  "useDepartments" : [
+    "gomel",
+    "vitebsk"
+  ]
+}

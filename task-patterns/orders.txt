@@ -1,0 +1,6 @@
+------------ 
+anton;
+emel;
+Salad[CABBAGE, PEPPER, TOMATO, CARROT, VINEGAR]45;
+TOTAL 45;
+------------ 

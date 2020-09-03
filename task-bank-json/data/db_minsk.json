@@ -1,0 +1,16 @@
+{
+  "transactions": [
+    {
+      "id": 2000,
+      "date": "2015-02-01",
+      "creditId": 0,
+      "money": 100
+    },
+    {
+      "id": 2001,
+      "date": "2015-02-01",
+      "creditId": 0,
+      "money": 100
+    }
+  ]
+}
